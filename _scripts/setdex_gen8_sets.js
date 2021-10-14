@@ -956,7 +956,7 @@ var SETDEX_GEN8_SETS = {
 				"sd": 0,
 				"sp": 252
 			},
-			"nature": Timid,
+			"nature": "Timid",
 			"ability": "Shield Dust",
 			"item": "Focus Sash",
 			"moves": [
