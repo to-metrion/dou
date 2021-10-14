@@ -1280,10 +1280,10 @@ function clearField() {
 			break;
 
 		default:
-			$("#singles").prop("checked", true);
+			$("#doubles").prop("checked", true);
 		}
 	} else {
-		$("#singles").prop("checked", true);
+		$("#doubles").prop("checked", true);
 	}
 	$("#clear").prop("checked", true);
 	$("#gscClear").prop("checked", true);
