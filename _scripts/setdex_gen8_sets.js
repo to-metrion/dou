@@ -1068,7 +1068,7 @@ var SETDEX_GEN8_SETS = {
 				"Icy Wind",
 				"Muddy Water"
 			],
-			}
+			},
 		"Choice Specs": {
 			"evs": {
 				"hp": 0,
@@ -1087,7 +1087,7 @@ var SETDEX_GEN8_SETS = {
 				"Dazzling Gleam",
 				"Ice Beam"
 			],
-			},
+			}
 		},
 "Tapu Lele": {
 		"Bulky Taunt": {
