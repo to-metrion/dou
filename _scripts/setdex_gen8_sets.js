@@ -1750,7 +1750,7 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
-"Seismitoad: {
+"Seismitoad": {
 		"DUU Rain Sweeper": {
 			"evs": {
 				"hp": 0,
