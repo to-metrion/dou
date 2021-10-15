@@ -2742,7 +2742,7 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
-"Zacian-Crowned": {
+"Zacian": {
 		"DUbers Sample": {
 			"evs": {
 				"hp": 4,
