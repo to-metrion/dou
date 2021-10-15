@@ -1,4 +1,25 @@
 var SETDEX_GEN8_SETS = {
+"Aegislash": {
+		"DUU Attacker": {
+			"evs": {
+				"hp": 184,
+				"at": 0,
+				"df": 0,
+				"sa": 156,
+				"sd": 0,
+				"sp": 168
+			},
+			"nature": "Modest",
+			"ability": "Stance Change",
+			"item": "Leftovers",
+			"moves": [
+				"Shadow Ball",
+				"Flash Cannon",
+				"Substitute",
+				"King's Shield"
+			],
+			}
+		},
 "Amoonguss": {
 		"Rage Powder Support": {
 			"evs": {
@@ -20,6 +41,69 @@ var SETDEX_GEN8_SETS = {
 				"Pollen Puff",
 				"Energy Ball",
 				"Rage Powder"
+			],
+			}
+		},
+"Araquanid": {
+		"DUU Webs Support": {
+			"evs": {
+				"hp": 252,
+				"at": 44,
+				"df": 92,
+				"sa": 0,
+				"sd": 0,
+				"sp": 120
+			},
+			"nature": "Jolly",
+			"ability": "Water Bubble",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Liquidation",
+				"Leech Life",
+				"Sticky Web",
+				"Wide Guard"
+			],
+			}
+		},
+"Arcanine": {
+		"DUU Bulky Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 116,
+				"sa": 0,
+				"sd": 4,
+				"sp": 136
+			},
+			"nature": "Timid",
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Flamethrower",
+				"Snarl",
+				"Will-O-Wisp",
+				"Morning Sun"
+			],
+			}
+		},
+"Azumarill": {
+		"DUU Belly Drum": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Huge Power",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Aqua Jet",
+				"Play Rough",
+				"Belly Drum",
+				"Protect"
 			],
 			}
 		},
@@ -105,6 +189,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Chansey": {
+		"Blob": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 252,
+				"sa": 0,
+				"sd": 4,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Natural Cure",
+			"item": "Eviolite",
+			"moves": [
+				"Seismic Toss",
+				"Toxic",
+				"Stealth Rock",
+				"Soft-Boiled"
+			],
+			}
+		},
 "Clefairy": {
 		"Follow Me Support": {
 			"evs": {
@@ -123,6 +228,67 @@ var SETDEX_GEN8_SETS = {
 				"Follow Me",
 				"After You",
 				"Toxic"
+			],
+			},
+		"DUU Follow Me Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 136,
+				"sa": 0,
+				"sd": 120,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Friend Guard",
+			"item": "Eviolite",
+			"moves": [
+				"Moonblast",
+				"Follow Me",
+				"Heal Pulse",
+				"Icy Wind"
+			],
+			}
+		},
+"Comfey": {
+		"DUU Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 148,
+				"sd": 0,
+				"sp": 108
+			},
+			"nature": "Modest",
+			"ability": "Triage",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Draining Kiss",
+				"Giga Drain",
+				"Floral Healing",
+				"Tailwind"
+			],
+			}
+		},
+"Corviknight": {
+		"DUU Bulk Up": {
+			"evs": {
+				"hp": 252,
+				"at": 140,
+				"df": 0,
+				"sa": 0,
+				"sd": 88,
+				"sp": 28
+			},
+			"nature": "Careful",
+			"ability": "Mirror Armor",
+			"item": "Leftovers",
+			"moves": [
+				"Brave Bird",
+				"Body Press",
+				"Bulk Up",
+				"Roost"
 			],
 			}
 		},
@@ -144,6 +310,25 @@ var SETDEX_GEN8_SETS = {
 				"Calm Mind",
 				"Moonlight",
 				"Icy Wind"
+			],
+			},
+		"DUU Calm Mind Sweeper": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 192,
+				"sa": 0,
+				"sd": 64,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Levitate",
+			"item": "Safety Goggles",
+			"moves": [
+				"Psyshock",
+				"Moonblast",
+				"Calm Mind",
+				"Moonlight"
 			],
 			}
 		},
@@ -232,6 +417,69 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Dusclops": {
+		"DUU TR Setter": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 36,
+				"sa": 0,
+				"sd": 220,
+				"sp": 0
+			},
+			"nature": "Sassy",
+			"ability": "Frisk",
+			"item": "Eviolite",
+			"moves": [
+				"Night Shade",
+				"Will-O-Wisp",
+				"Trick Room",
+				"Pain Split"
+			],
+			}
+		},
+"Entei": {
+		"DUU Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Inner Focus",
+			"item": "Life Orb",
+			"moves": [
+				"Sacred Fire",
+				"Stomping Tantrum",
+				"Extreme Speed",
+				"Stone Edge"
+			],
+			}
+		},
+"Excadrill": {
+		"DUU Sand Rush": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Sand Rush",
+			"item": "Life Orb",
+			"moves": [
+				"High Horsepower",
+				"Iron Head",
+				"Rock Slide",
+				"Earthquake"
+			],
+			}
+		},
 "Ferrothorn": {
 		"Assault Vest": {
 			"evs": {
@@ -253,6 +501,49 @@ var SETDEX_GEN8_SETS = {
 				"Gyro Ball",
 				"Steel Roller",
 				"Knock Off"
+			],
+			},
+		"DUU Support": {
+			"evs": {
+				"hp": 252,
+				"at": 64,
+				"df": 84,
+				"sa": 0,
+				"sd": 108,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 0
+			},
+			"nature": "Relaxed",
+			"ability": "Iron Barbs",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Power Whip",
+				"Gyro Ball",
+				"Stealth Rock",
+				"Protect"
+			],
+			}
+		},
+"Gastrodon": {
+		"DUU Support": {
+			"evs": {
+				"hp": 192,
+				"at": 0,
+				"df": 0,
+				"sa": 224,
+				"sd": 92,
+				"sp": 0
+			},
+			"nature": "Modest",
+			"ability": "Storm Drain",
+			"item": "Rindo Berry",
+			"moves": [
+				"Scald",
+				"Earth Power",
+				"Ice Beam",
+				"Recover"
 			],
 			}
 		},
@@ -296,6 +587,64 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Gigalith": {
+    "DUU Sample": {
+      "evs": {
+        "hp": 252,
+        "at": 64,
+        "df": 192,
+        "sa": 0,
+        "sd": 0,
+        "sp": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "at": 31,
+        "df": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 0
+      },
+      "nature": "Brave",
+      "ability": "Sand Stream",
+      "item": "Weakness Policy",
+      "moves": [
+        "Rock Slide",
+        "Heavy Slam",
+        "Superpower",
+        "Protect"
+      ],
+    }
+  },
+"Glastrier": {
+    "DUU TR Attacker": {
+      "evs": {
+        "hp": 252,
+        "at": 252,
+        "df": 0,
+        "sa": 0,
+        "sd": 4,
+        "sp": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "at": 31,
+        "df": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 0
+      },
+      "nature": "Brave",
+      "ability": "Chilling Neigh",
+      "item": "Life Orb",
+      "moves": [
+        "Icicle Crash",
+        "Close Combat",
+        "High Horsepower",
+        "Heavy Slam"
+      ],
+    }
+  },
 "Hatterene": {
 		"Trick Room Attacker": {
 			"evs": {
@@ -341,6 +690,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Hydreigon": {
+		"DUU Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 4,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Levitate",
+			"item": "Choice Scarf",
+			"moves": [
+				"Dark Pulse",
+				"Draco Meteor",
+				"Fire Blast",
+				"U-turn"
+			],
+			}
+		},
 "Incineroar": {
 		"Pivot": {
 			"evs": {
@@ -383,6 +753,35 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Indeedee-M": {
+    "DUU Sample": {
+      "evs": {
+        "hp": 0,
+        "at": 0,
+        "df": 0,
+        "sa": 252,
+        "sd": 4,
+        "sp": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "at": 0,
+        "df": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 31
+      },
+      "nature": "Timid",
+      "ability": "Psychic Surge",
+      "item": "Life Orb",
+      "moves": [
+        "Expanding Force",
+        "Hyper Voice",
+        "Mystical Fire",
+        "Protect"
+      ],
+    }
+  },
 "Kingdra": {
 		"Swift Swim Attacker": {
 			"evs": {
@@ -444,6 +843,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Krookodile": {
+		"DUU Intimidate Support": {
+			"evs": {
+				"hp": 168,
+				"at": 112,
+				"df": 0,
+				"sa": 0,
+				"sd": 108,
+				"sp": 120
+			},
+			"nature": "Jolly",
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"moves": [
+				"High Horsepower",
+				"Knock Off",
+				"Stealth Rock",
+				"Protect"
+			],
+			}
+		},
 "Kyurem": {
 		"qsns Sample (Specs)": {
 			"evs": {
@@ -462,6 +882,25 @@ var SETDEX_GEN8_SETS = {
 				"Freeze-Dry",
 				"Earth Power",
 				"Flash Cannon"
+			],
+			},
+		"DUU AV Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 44,
+				"sd": 36,
+				"sp": 176
+			},
+			"nature": "Timid",
+			"ability": "Pressure",
+			"item": "Assault Vest",
+			"moves": [
+				"Draco Meteor",
+				"Freeze-Dry",
+				"Glaciate",
+				"Earth Power"
 			],
 			}
 		},
@@ -604,6 +1043,25 @@ var SETDEX_GEN8_SETS = {
 				"Mystical Fire",
 				"Tailwind"
 			],
+			},
+		"DUU Bulky Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 4,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Levitate",
+			"item": "Haban Berry",
+			"moves": [
+				"Draco Meteor",
+				"Heal Pulse",
+				"Tailwind",
+				"Protect"
+			],
 			}
 		},
 "Latios": {
@@ -625,10 +1083,50 @@ var SETDEX_GEN8_SETS = {
 				"Mystical Fire",
 				"Tailwind"
 			],
+			},
+		"DUU Tailwind": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Levitate",
+			"item": "Soul Dew",
+			"moves": [
+				"Draco Meteor",
+				"Psychic",
+				"Tailwind",
+				"Protect"
+			],
+			}
+		},
+"Ludicolo": {
+		"DUU Rain Sweeper": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Modest",
+			"ability": "Swift Swim",
+			"item": "Life Orb",
+			"moves": [
+				"Hydro Pump",
+				"Energy Ball",
+				"Ice Beam",
+				"Fake Out"
+			],
 			}
 		},
 "Lurantis": {
-		"Trick Room Attacker": {
+		"DUU Trick Room Attacker": {
 			"evs": {
 				"hp": 252,
 				"at": 252,
@@ -642,11 +1140,35 @@ var SETDEX_GEN8_SETS = {
 			},
 			"nature": "Brave",
 			"ability": "Contrary",
-			"item": "Sitrus Berry",
+			"item": "Life Orb",
 			"moves": [
 				"Leaf Blade",
 				"Superpower",
 				"Knock Off",
+				"Protect"
+			],
+			}
+		},
+"Marowak-Alola": {
+		"DUU TR Attacker": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 0
+			},
+			"nature": "Brave",
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"moves": [
+				"Flare Blitz",
+				"Poltergeist",
+				"Bonemerang",
 				"Protect"
 			],
 			}
@@ -712,6 +1234,48 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Milotic": {
+		"DUU Coil": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 92,
+				"sd": 164,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Competitive",
+			"item": "Leftovers",
+			"moves": [
+				"Muddy Water",
+				"Hypnosis",
+				"Coil",
+				"Recover"
+			],
+			}
+		},
+"Mimikyu": {
+		"DUU Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Disguise",
+			"item": "Life Orb",
+			"moves": [
+				"Shadow Claw",
+				"Play Rough",
+				"Shadow Sneak",
+				"Protect"
+			],
+			}
+		},
 "Moltres-Galar": {
 		"Bulky Setup": {
 			"evs": {
@@ -730,6 +1294,25 @@ var SETDEX_GEN8_SETS = {
 				"Air Slash",
 				"Agility",
 				"Nasty Plot"
+			],
+			},
+		"DUU Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Berserk",
+			"item": "Choice Scarf",
+			"moves": [
+				"Fiery Wrath",
+				"Dark Pulse",
+				"Hurricane",
+				"U-turn"
 			],
 			}
 		},
@@ -815,6 +1398,25 @@ var SETDEX_GEN8_SETS = {
 				"Nasty Plot",
 				"Protect"
 			],
+			},
+		"DUU Sun Setter": {
+			"evs": {
+				"hp": 144,
+				"at": 0,
+				"df": 76,
+				"sa": 36,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Drought",
+			"item": "Heat Rock",
+			"moves": [
+				"Heat Wave",
+				"Solar Beam",
+				"Nasty Plot",
+				"Protect"
+			],
 			}
 		},
 "Ninetales-Alola": {
@@ -834,6 +1436,25 @@ var SETDEX_GEN8_SETS = {
 				"Aurora Veil",
 				"Blizzard",
 				"Encore",
+				"Protect"
+			],
+			},
+		"DUU Aurora Veil": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Snow Warning",
+			"item": "Light Clay",
+			"moves": [
+				"Blizzard",
+				"Moonblast",
+				"Aurora Veil",
 				"Protect"
 			],
 			}
@@ -859,12 +1480,33 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Pheromosa": {
+		"DUU Fast Pivot": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Beast Boost",
+			"item": "Focus Sash",
+			"moves": [
+				"Close Combat",
+				"Triple Axel",
+				"U-turn",
+				"Protect"
+			],
+			}
+		},
 "Politoed": {
 		"Rain Setter": {
 			"evs": {
 				"hp": 248,
-				"at": 120,
-				"df": 0,
+				"at": 0,
+				"df": 120,
 				"sa": 140,
 				"sd": 0,
 				"sp": 0
@@ -877,6 +1519,25 @@ var SETDEX_GEN8_SETS = {
 				"Weather Ball",
 				"Icy Wind",
 				"Encore"
+			],
+			},
+		"DUU Rain Setter": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 88,
+				"sa": 0,
+				"sd": 168,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Drizzle",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Scald",
+				"Weather Ball",
+				"Icy Wind",
+				"Helping Hand"
 			],
 			}
 		},
@@ -904,6 +1565,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Primarina": {
+		"DUU Choice Specs": {
+			"evs": {
+				"hp": 244,
+				"at": 0,
+				"df": 0,
+				"sa": 4,
+				"sd": 92,
+				"sp": 168
+			},
+			"nature": "Modest",
+			"ability": "Liquid Voice",
+			"item": "Choice Specs",
+			"moves": [
+				"Hyper Voice",
+				"Dazzling Gleam",
+				"Moonblast",
+				"Energy Ball"
+			],
+			}
+		},
 "Regidrago": {
 		"Choice Specs": {
 			"evs": {
@@ -921,7 +1603,26 @@ var SETDEX_GEN8_SETS = {
 				"Dragon Energy",
 				"Dragon Pulse",
 				"Draco Meteor",
-				"Explosion"
+				"Hyper Beam"
+			],
+			},
+		"DUU Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Dragon's Maw",
+			"item": "Choice Scarf",
+			"moves": [
+				"Dragon Energy",
+				"Dragon Pulse",
+				"Draco Meteor",
+				"Hyper Beam"
 			],
 			}
 		},
@@ -1007,6 +1708,67 @@ var SETDEX_GEN8_SETS = {
 				"Knock Off",
 				"Snarl"
 			],
+			},
+		"DUU Support": {
+			"evs": {
+				"hp": 252,
+				"at": 204,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 52
+			},
+			"nature": "Adamant",
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Knock Off",
+				"Roar"
+			],
+			}
+		},
+"Scizor": {
+		"DUU Swords Dance": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 4
+			},
+			"nature": "Adamant",
+			"ability": "Technician",
+			"item": "Life Orb",
+			"moves": [
+				"Bullet Punch",
+				"Bug Bite",
+				"Swords Dance",
+				"Protect"
+			],
+			}
+		},
+"Seismitoad: {
+		"DUU Rain Sweeper": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Swift Swim",
+			"item": "Life Orb",
+			"moves": [
+				"Muddy Water",
+				"Earth Power",
+				"Sludge Bomb",
+				"Protect"
+			],
 			}
 		},
 "Spectrier": {
@@ -1027,6 +1789,69 @@ var SETDEX_GEN8_SETS = {
 				"Shadow Ball",
 				"Mud Shot",
 				"Protect"
+			],
+			}
+		},
+"Suicune": {
+		"DUU Bulky Tailwind": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 80,
+				"sd": 0,
+				"sp": 176
+			},
+			"nature": "Timid",
+			"ability": "Inner Focus",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Scald",
+				"Ice Beam",
+				"Snarl",
+				"Tailwind"
+			],
+			}
+		},
+"Sylveon": {
+		"DUU Choice Specs": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 60,
+				"sa": 196,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Modest",
+			"ability": "Pixilate",
+			"item": "Choice Specs",
+			"moves": [
+				"Hyper Voice",
+				"Moonblast",
+				"Mystical Fire",
+				"Shadow Ball"
+			],
+			}
+		},
+"Tapu Bulu": {
+		"DUU Assault Vest": {
+			"evs": {
+				"hp": 64,
+				"at": 192,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Grassy Surge",
+			"item": "Assault Vest",
+			"moves": [
+				"Wood Hammer",
+				"Horn Leech",
+				"Close Combat",
+				"Rock Slide"
 			],
 			}
 		},
@@ -1129,6 +1954,69 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Terrakion": {
+		"DUU Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Justified",
+			"item": "Life Orb",
+			"moves": [
+				"Close Combat",
+				"Rock Slide",
+				"Stomping Tantrum",
+				"Protect"
+			],
+			}
+		},
+"Thundurus": {
+		"DUU Support": {
+			"evs": {
+				"hp": 244,
+				"at": 0,
+				"df": 48,
+				"sa": 0,
+				"sd": 200,
+				"sp": 16
+			},
+			"nature": "Timid",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Thunderbolt",
+				"U-turn",
+				"Taunt",
+				"Thunder Wave"
+			],
+			}
+		},
+"Thundurus-Therian": {
+		"DUU AV Offensive": {
+			"evs": {
+				"hp": 40,
+				"at": 0,
+				"df": 44,
+				"sa": 172,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Volt Absorb",
+			"item": "Assault Vest",
+			"moves": [
+				"Thunderbolt",
+				"Electroweb",
+				"Volt Switch",
+				"Sludge Bomb"
+			],
+			}
+		},
 "Togekiss": {
 		"Bulky Support": {
 			"evs": {
@@ -1145,6 +2033,25 @@ var SETDEX_GEN8_SETS = {
 			"moves": [
 				"Air Slash",
 				"Dazzling Gleam",
+				"Follow Me",
+				"Tailwind"
+			],
+			},
+		"DUU Bulky Support": {
+			"evs": {
+				"hp": 236,
+				"at": 0,
+				"df": 152,
+				"sa": 40,
+				"sd": 72,
+				"sp": 8
+			},
+			"nature": "Bold",
+			"ability": "Serene Grace",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Air Slash",
+				"Heat Wave",
 				"Follow Me",
 				"Tailwind"
 			],
@@ -1192,6 +2099,65 @@ var SETDEX_GEN8_SETS = {
 				"Hurricane",
 				"Weather Ball",
 				"Protect"
+			],
+			},
+		"DUU Offensive": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Prankster",
+			"item": "Heavy-Duty Boots",
+			"moves": [
+				"Hurricane",
+				"Heat Wave",
+				"U-turn",
+				"Tailwind"
+			],
+			},
+		"DUU Support": {
+			"evs": {
+				"hp": 244,
+				"at": 0,
+				"df": 48,
+				"sa": 0,
+				"sd": 96,
+				"sp": 120
+			},
+			"nature": "Calm",
+			"ability": "Prankster",
+			"item": "Heavy-Duty Boots",
+			"moves": [
+				"Hurricane",
+				"Heat Wave",
+				"U-turn",
+				"Tailwind"
+			],
+			}
+		},
+"Toxapex": {
+		"DUU Staller": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 72,
+				"sa": 0,
+				"sd": 184,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Regenerator",
+			"item": "Black Sludge",
+			"moves": [
+				"Scald",
+				"Toxic Spikes",
+				"Stockpile",
+				"Recover"
 			],
 			}
 		},
@@ -1296,6 +2262,46 @@ var SETDEX_GEN8_SETS = {
 				"Earth Power",
 				"Sleep Powder"
 			],
+			},
+		"DUU Sun Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Chlorophyll",
+			"item": "Wide Lens",
+			"moves": [
+				"Leaf Storm",
+				"Sludge Bomb",
+				"Earth Power",
+				"Sleep Powder"
+			],
+			}
+		},
+"Victini": {
+		"DUU Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Victory Star",
+			"item": "Choice Scarf",
+			"moves": [
+				"V-create",
+				"Bolt Strike",
+				"Zen Headbutt",
+				"U-turn"
+			],
 			}
 		},
 "Volcanion": {
@@ -1359,6 +2365,48 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Wartortle": {
+		"DUU Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 176,
+				"sa": 0,
+				"sd": 80,
+				"sp": 0
+			},
+			"nature": "Impish",
+			"ability": "Rain Dish",
+			"item": "Eviolite",
+			"moves": [
+				"Fake Out",
+				"Flip Turn",
+				"Follow Me",
+				"Toxic"
+			],
+			}
+		},
+"Weezing-Galar": {
+		"DUU Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 176,
+				"sa": 36,
+				"sd": 0,
+				"sp": 44
+			},
+			"nature": "Bold",
+			"ability": "Neutralizing Gas",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Strange Steam",
+				"Sludge Bomb",
+				"Fire Blast",
+				"Will-O-Wisp"
+			],
+			}
+		},
 "Whimsicott": {
 		"Prankster Support": {
 			"evs": {
@@ -1419,6 +2467,27 @@ var SETDEX_GEN8_SETS = {
 				"Brave Bird",
 				"U-turn",
 				"Stomping Tantrum"
+			],
+			}
+		},
+"Zarude": {
+		"DUU AV Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Leaf Guard",
+			"item": "Assault Vest",
+			"moves": [
+				"Power Whip",
+				"Darkest Lariat",
+				"Rock Slide",
+				"U-turn"
 			],
 			}
 		},
