@@ -126,6 +126,25 @@ var SETDEX_GEN8_SETS = {
 				"Flip Turn",
 				"Toxic"
 			],
+			},
+		"DUbers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 68,
+				"sa": 0,
+				"sd": 32,
+				"sp": 156
+			},
+			"nature": "Impish",
+			"ability": "Rain Dish",
+			"item": "Wacan Berry",
+			"moves": [
+				"Follow Me",
+				"Fake Out",
+				"Yawn",
+				"Aqua Jet"
+			],
 			}
 		},
 "Buzzwole": {
@@ -145,6 +164,27 @@ var SETDEX_GEN8_SETS = {
 				"Close Combat",
 				"Leech Life",
 				"Ice Punch",
+				"Protect"
+			],
+			}
+		},
+"Calyrex-Shadow": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "As One",
+			"item": "Focus Sash",
+			"moves": [
+				"Astral Barrage",
+				"Encore",
+				"Nasty Plot",
 				"Protect"
 			],
 			}
@@ -248,6 +288,25 @@ var SETDEX_GEN8_SETS = {
 				"Heal Pulse",
 				"Icy Wind"
 			],
+			},
+		"DNU zee Sample": {
+			"evs": {
+				"hp": 248,
+				"at": 0,
+				"df": 0,
+				"sa": 0,
+				"sd": 252,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Friend Guard",
+			"item": "Eviolite",
+			"moves": [
+				"Follow Me",
+				"Helping Hand",
+				"Life Dew",
+				"Protect"
+			],
 			}
 		},
 "Comfey": {
@@ -268,6 +327,27 @@ var SETDEX_GEN8_SETS = {
 				"Giga Drain",
 				"Floral Healing",
 				"Tailwind"
+			],
+			}
+		},
+"Conkeldurr": {
+		"DNU Iron Fist (zee Sample)": {
+			"evs": {
+				"hp": 252,
+				"at": 32,
+				"df": 0,
+				"sa": 0,
+				"sd": 220,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Iron Fist",
+			"item": "Assault Vest",
+			"moves": [
+				"Drain Punch",
+				"Mach Punch",
+				"Ice Punch",
+				"Rock Slide"
 			],
 			}
 		},
@@ -417,6 +497,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Drednaw": {
+		"DNU Rain Sweeper (fespy Sample)": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Swift Swim",
+			"item": "Life Orb",
+			"moves": [
+				"Liquidation",
+				"Rock Slide",
+				"Swords Dance",
+				"Protect"
+			],
+			}
+		},
 "Dusclops": {
 		"DUU TR Setter": {
 			"evs": {
@@ -438,6 +539,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Electabuzz": {
+		"DNU zee Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 172,
+				"sa": 0,
+				"sd": 84,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Vital Spirit",
+			"item": "Eviolite",
+			"moves": [
+				"Thunderbolt",
+				"Follow Me",
+				"Helping Hand",
+				"Protect"
+			],
+			}
+		},
 "Entei": {
 		"DUU Attacker": {
 			"evs": {
@@ -456,6 +578,30 @@ var SETDEX_GEN8_SETS = {
 				"Stomping Tantrum",
 				"Extreme Speed",
 				"Stone Edge"
+			],
+			}
+		},
+"Escavalier": {
+		"DNU fespy Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 192,
+				"df": 36,
+				"sa": 0,
+				"sd": 28,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 0
+			},
+			"nature": "Brave",
+			"ability": "Overcoat",
+			"item": "Leftovers",
+			"moves": [
+				"Megahorn",
+				"Iron Head",
+				"Knock Off",
+				"Protect"
 			],
 			}
 		},
@@ -645,6 +791,27 @@ var SETDEX_GEN8_SETS = {
       ],
     }
   },
+"Groudon": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 240,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 16
+			},
+			"nature": "Adamant",
+			"ability": "Drought",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Precipice Blades",
+				"Stone Edge",
+				"Stealth Rock",
+				"Thunder Wave"
+			],
+			}
+		},
 "Hatterene": {
 		"Trick Room Attacker": {
 			"evs": {
@@ -690,6 +857,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Ho-Oh": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 248,
+				"at": 64,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 196
+			},
+			"nature": "Adamant",
+			"ability": "Regenerator",
+			"item": "Weakness Policy",
+			"moves": [
+				"Brave Bird",
+				"Flare Blitz",
+				"Tailwind",
+				"Protect"
+			],
+			}
+		},
 "Hydreigon": {
 		"DUU Choice Scarf": {
 			"evs": {
@@ -724,6 +912,33 @@ var SETDEX_GEN8_SETS = {
 			"nature": "Careful",
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
+			"moves": [
+				"Fake Out",
+				"Flare Blitz",
+				"Knock Off",
+				"Parting Shot"
+			],
+			},
+		"DUbers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 244,
+				"sa": 0,
+				"sd": 12,
+				"sp": 0
+			},
+      "ivs": {
+        "hp": 31,
+        "at": 31,
+        "df": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 9
+      },
+			"nature": "Relaxed",
+			"ability": "Intimidate",
+			"item": "Safety Goggles",
 			"moves": [
 				"Fake Out",
 				"Flare Blitz",
@@ -1123,6 +1338,25 @@ var SETDEX_GEN8_SETS = {
 				"Ice Beam",
 				"Fake Out"
 			],
+			},
+		"DNU Rain Sweeper (fespy Sample)": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 4,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Modest",
+			"ability": "Swift Swim",
+			"item": "Assault Vest",
+			"moves": [
+				"Muddy Water",
+				"Energy Ball",
+				"Ice Beam",
+				"Fake Out"
+			],
 			}
 		},
 "Lurantis": {
@@ -1273,6 +1507,25 @@ var SETDEX_GEN8_SETS = {
 				"Play Rough",
 				"Shadow Sneak",
 				"Protect"
+			],
+			},
+		"DNU TR Setter (zee Sample)": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 0
+			},
+			"nature": "Brave",
+			"ability": "Disguise",
+			"item": "Life Orb",
+			"moves": [
+				"Shadow Claw",
+				"Play Rough",
+				"Trick Room",
+				"Psych Up"
 			],
 			}
 		},
@@ -1477,6 +1730,27 @@ var SETDEX_GEN8_SETS = {
 				"Weather Ball",
 				"Scald",
 				"Tailwind"
+			],
+			}
+		},
+"Persian-Alola": {
+		"DNU zee Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 4,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Fur Coat",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Fake Out",
+				"Foul Play",
+				"Hypnosis",
+				"Parting Shot"
 			],
 			}
 		},
@@ -1767,7 +2041,7 @@ var SETDEX_GEN8_SETS = {
 				"Muddy Water",
 				"Earth Power",
 				"Sludge Bomb",
-				"Protect"
+				"Power Whip"
 			],
 			}
 		},
@@ -1994,6 +2268,25 @@ var SETDEX_GEN8_SETS = {
 				"Taunt",
 				"Thunder Wave"
 			],
+			},
+		"DNU Rain Support (fespy Sample)": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 20,
+				"sa": 140,
+				"sd": 0,
+				"sp": 96
+			},
+			"nature": "Modest",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Thunder",
+				"Rain Dance",
+				"Taunt",
+				"Protect"
+			],
 			}
 		},
 "Thundurus-Therian": {
@@ -2137,6 +2430,27 @@ var SETDEX_GEN8_SETS = {
 				"Heat Wave",
 				"U-turn",
 				"Tailwind"
+			],
+			}
+		},
+"Tornadus-Therian": {
+		"DNU Rain Attacker (fespy Sample)": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Regenerator",
+			"item": "Life Orb",
+			"moves": [
+				"Hurricane",
+				"Weather Ball",
+				"Rain Dance",
+				"Taunt"
 			],
 			}
 		},
@@ -2425,6 +2739,27 @@ var SETDEX_GEN8_SETS = {
 				"Encore",
 				"Tailwind",
 				"Taunt"
+			],
+			}
+		},
+"Zacian-Crowned": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Intrepid Sword",
+			"item": "Rusted Sword",
+			"moves": [
+				"Behemoth Blade",
+				"Wild Charge",
+				"Play Rough",
+				"Protect"
 			],
 			}
 		},
