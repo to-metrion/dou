@@ -55,7 +55,7 @@ var SETDEX_GEN7_SETS = {
 			"ivs": {
 				"at": 0,
 				"sp": 28
-			}
+			},
 			"nature": "Calm",
 			"ability": "Regenerator",
 			"item": "Occa Berry",
@@ -100,7 +100,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Relaxed",
 			"ability": "Heatproof",
 			"item": "Psychium Z",
@@ -125,7 +125,7 @@ var SETDEX_GEN7_SETS = {
 					},
 		"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Quiet",
 			"ability": "Solid Rock",
 			"item": "Cameruptite",
@@ -273,7 +273,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Brave",
 			"ability": "Clear Body",
 			"item": "Weakness Policy",
@@ -360,7 +360,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Quiet",
 			"ability": "Trace",
 			"item": "Gardevoirite",
@@ -403,7 +403,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Relaxed",
 			"ability": "Storm Drain",
 			"item": "Wiki Berry",
@@ -467,7 +467,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Sassy",
 			"ability": "Shadow Tag",
 			"item": "Wiki Berry",
@@ -532,7 +532,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 1
-			}
+			},
 			"nature": "Sassy",
 			"ability": "Intimidate",
 			"item": "Figy Berry",
@@ -877,7 +877,7 @@ var SETDEX_GEN7_SETS = {
 					},
 		"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Brave",
 			"ability": "Contrary",
 			"item": "Aguav Berry",
@@ -1149,7 +1149,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Quiet",
 			"ability": "Download",
 			"item": "Eviolite",
