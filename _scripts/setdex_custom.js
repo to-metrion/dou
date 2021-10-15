@@ -18,7 +18,9 @@ var showdownFormes = [["Kyurem-White", "Kyurem-W"],
 	["Groudon-Primal", "Groudon"],
 	["Kyogre-Primal", "Kyogre"],
 	["Necrozma-Dusk-Mane", "Necrozma-Dusk Mane"],
-	["Necrozma-Dawn-Wings", "Necrozma-Dawn Wings"]];
+	["Necrozma-Dawn-Wings", "Necrozma-Dawn Wings"],
+	["Zacian-Crowned", "Zacian"],
+	["Zamazenta-Crowned", "Zamazenta"]];
 if (localStorage.getItem("custom") != null) {
 	var SETDEX_CUSTOM = JSON.parse(localStorage.getItem("custom"));
 }
