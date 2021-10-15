@@ -304,7 +304,6 @@ var SETDEX_GEN7_SETS = {
 				"Trick Room",
 				"Protect"
 			],
-			}
 			},
 		"Mega Mixed Attacker": {
 			"evs": {
