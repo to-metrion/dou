@@ -127,7 +127,7 @@ var SETDEX_GEN8_SETS = {
 				"Toxic"
 			],
 			},
-		"DUbers Sample": {
+		"DUbers DaWoblefet Sample": {
 			"evs": {
 				"hp": 252,
 				"at": 0,
@@ -169,7 +169,7 @@ var SETDEX_GEN8_SETS = {
 			}
 		},
 "Calyrex-Shadow": {
-		"DUbers Sample": {
+		"DUbers Focus Sash": {
 			"evs": {
 				"hp": 4,
 				"at": 0,
@@ -185,6 +185,25 @@ var SETDEX_GEN8_SETS = {
 				"Astral Barrage",
 				"Encore",
 				"Nasty Plot",
+				"Protect"
+			],
+			},
+		"DUbers Life Orb": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "As One",
+			"item": "Life Orb",
+			"moves": [
+				"Astral Barrage",
+				"Draining Kiss",
+				"Substitute",
 				"Protect"
 			],
 			}
@@ -791,6 +810,27 @@ var SETDEX_GEN8_SETS = {
       ],
     }
   },
+ "Grimmsnarl": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 132,
+				"sa": 0,
+				"sd": 124,
+				"sp": 0
+			},
+			"nature": "Careful",
+			"ability": "Prankster",
+			"item": "Light Clay",
+			"moves": [
+				"Sucker Punch",
+				"Light Screen",
+				"Reflect",
+				"Taunt"
+			],
+			}
+		},
 "Groudon": {
 		"DUbers Sample": {
 			"evs": {
@@ -858,7 +898,26 @@ var SETDEX_GEN8_SETS = {
 			}
 		},
 "Ho-Oh": {
-		"DUbers Sample": {
+		"DUbers Fast Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Regenerator",
+			"item": "Wacan Berry",
+			"moves": [
+				"Sacred Fire",
+				"Brave Bird",
+				"Tailwind",
+				"Recover"
+			],
+			},
+		"DUbers Bulky WeakPol": {
 			"evs": {
 				"hp": 248,
 				"at": 64,
@@ -870,6 +929,25 @@ var SETDEX_GEN8_SETS = {
 			"nature": "Adamant",
 			"ability": "Regenerator",
 			"item": "Weakness Policy",
+			"moves": [
+				"Brave Bird",
+				"Flare Blitz",
+				"Tailwind",
+				"Protect"
+			],
+			},
+		"DUbers Bulky Life Orb": {
+			"evs": {
+				"hp": 184,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 72
+			},
+			"nature": "Adamant",
+			"ability": "Regenerator",
+			"item": "Life Orb",
 			"moves": [
 				"Brave Bird",
 				"Flare Blitz",
@@ -919,7 +997,7 @@ var SETDEX_GEN8_SETS = {
 				"Parting Shot"
 			],
 			},
-		"DUbers Sample": {
+		"DUbers Physically Defensive": {
 			"evs": {
 				"hp": 252,
 				"at": 0,
@@ -943,6 +1021,52 @@ var SETDEX_GEN8_SETS = {
 				"Fake Out",
 				"Flare Blitz",
 				"Knock Off",
+				"Parting Shot"
+			],
+			},
+		"DUbers Specially Defensive": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 56,
+				"sa": 0,
+				"sd": 200,
+				"sp": 0
+			},
+      "ivs": {
+        "hp": 31,
+        "at": 31,
+        "df": 31,
+        "sa": 31,
+        "sd": 31,
+        "sp": 0
+      },
+			"nature": "Sassy",
+			"ability": "Intimidate",
+			"item": "Heavy-Duty Boots",
+			"moves": [
+				"Fake Out",
+				"Flare Blitz",
+				"Knock Off",
+				"Parting Shot"
+			],
+			},
+		"DUbers Passho Berry": {
+			"evs": {
+				"hp": 252,
+				"at": 4,
+				"df": 76,
+				"sa": 0,
+				"sd": 124,
+				"sp": 52
+			},
+			"nature": "Impish",
+			"ability": "Intimidate",
+			"item": "Passho Berry",
+			"moves": [
+				"Fake Out",
+				"Flare Blitz",
+				"Darkest Lariat",
 				"Parting Shot"
 			],
 			}
@@ -1075,6 +1199,46 @@ var SETDEX_GEN8_SETS = {
 				"High Horsepower",
 				"Knock Off",
 				"Stealth Rock",
+				"Protect"
+			],
+			}
+		},
+"Kyogre": {
+		"DUbers Fast Attacker": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Drizzle",
+			"item": "Mystic Water",
+			"moves": [
+				"Water Spout",
+				"Origin Pulse",
+				"Ice Beam",
+				"Protect"
+			],
+			},
+		"DUbers Bulky Attacker": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 236,
+				"sd": 4,
+				"sp": 16
+			},
+			"nature": "Modest",
+			"ability": "Drizzle",
+			"item": "Leftovers",
+			"moves": [
+				"Origin Pulse",
+				"Thunder",
+				"Substitute",
 				"Protect"
 			],
 			}
@@ -1383,6 +1547,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Magearna": {
+		"DUBers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 44,
+				"sd": 0,
+				"sp": 212
+			},
+			"nature": "Modest",
+			"ability": "Soul-Heart",
+			"item": "Leftovers",
+			"moves": [
+				"Dazzling Gleam",
+				"Flash Cannon",
+				"Substitute",
+				"Protect"
+			],
+			}
+		},
 "Marowak-Alola": {
 		"DUU TR Attacker": {
 			"evs": {
@@ -1607,6 +1792,46 @@ var SETDEX_GEN8_SETS = {
 				"Expanding Force",
 				"Meteor Beam",
 				"Earth Power",
+				"Protect"
+			],
+			}
+		},
+"Necrozma-Dusk Mane": {
+		"DUBers Fast Attacker": {
+			"evs": {
+				"hp": 252,
+				"at": 40,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 216
+			},
+			"nature": "Adamant",
+			"ability": "Prism Armor",
+			"item": "Weakness Policy",
+			"moves": [
+				"Sunsteel Strike",
+				"Earthquake",
+				"Dragon Dance",
+				"Protect"
+			],
+			},
+		"DUBers Trick Room": {
+			"evs": {
+				"hp": 252,
+				"at": 132,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 124
+			},
+			"nature": "Adamant",
+			"ability": "Prism Armor",
+			"item": "Weakness Policy",
+			"moves": [
+				"Sunsteel Strike",
+				"Rock Slide",
+				"Trick Room",
 				"Protect"
 			],
 			}
@@ -1860,6 +2085,27 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Rayquaza": {
+		"DUBers Sample": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Air Lock",
+			"item": "Focus Sash",
+			"moves": [
+				"Dragon Ascent",
+				"V-create",
+				"Dragon Dance",
+				"Protect"
+			],
+			}
+		},
 "Regidrago": {
 		"Choice Specs": {
 			"evs": {
@@ -1950,6 +2196,27 @@ var SETDEX_GEN8_SETS = {
 				"df": 36,
 				"sa": 0,
 				"sd": 112,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Grassy Surge",
+			"item": "Assault Vest",
+			"moves": [
+				"Fake Out",
+				"Grassy Glide",
+				"Wood Hammer",
+				"U-turn"
+			],
+			}
+		},
+"Rillaboom-Gmax": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 232,
+				"df": 24,
+				"sa": 0,
+				"sd": 24,
 				"sp": 0
 			},
 			"nature": "Adamant",
@@ -2431,6 +2698,25 @@ var SETDEX_GEN8_SETS = {
 				"U-turn",
 				"Tailwind"
 			],
+			},
+		"DUbers Sample": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Prankster",
+			"item": "Focus Sash",
+			"moves": [
+				"Hurricane",
+				"Tailwind",
+				"Taunt",
+				"Protect"
+			],
 			}
 		},
 "Tornadus-Therian": {
@@ -2595,6 +2881,25 @@ var SETDEX_GEN8_SETS = {
 				"Earth Power",
 				"Sleep Powder"
 			],
+			},
+		"DUbers Sun Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Modest",
+			"ability": "Chlorophyll",
+			"item": "Focus Sash",
+			"moves": [
+				"Leaf Storm",
+				"Sludge Bomb",
+				"Earth Power",
+				"Sleep Powder"
+			],
 			}
 		},
 "Victini": {
@@ -2742,6 +3047,46 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Yveltal": {
+		"DUbers Tailwind Setter": {
+			"evs": {
+				"hp": 48,
+				"at": 0,
+				"df": 0,
+				"sa": 228,
+				"sd": 204,
+				"sp": 28
+			},
+			"nature": "Mild",
+			"ability": "Dark Aura",
+			"item": "Black Glasses",
+			"moves": [
+				"Sucker Punch",
+				"Oblivion Wing",
+				"Dark Pulse",
+				"Tailwind"
+			],
+			},
+		"DUbers Fast Attacker": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Dark Aura",
+			"item": "Life Orb",
+			"moves": [
+				"Dark Pulse",
+				"Hurricane",
+				"Sucker Punch",
+				"Protect"
+			],
+			}
+		},
 "Zacian": {
 		"DUbers Sample": {
 			"evs": {
@@ -2760,6 +3105,27 @@ var SETDEX_GEN8_SETS = {
 				"Wild Charge",
 				"Play Rough",
 				"Protect"
+			],
+			}
+		},
+"Zamazenta": {
+		"DUbers Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 104,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 152
+			},
+			"nature": "Careful",
+			"ability": "Dauntless Shield",
+			"item": "Rusted Shield",
+			"moves": [
+				"Behemoth Bash",
+				"Snarl",
+				"Wide Guard",
+				"Coaching"
 			],
 			}
 		},
