@@ -32,7 +32,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Sassy",
 			"ability": "Regenerator",
 			"item": "Wiki Berry",
