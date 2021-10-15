@@ -122,7 +122,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": 0,
 				"sp": 0
 			},
-					},
 		"ivs": {
 				"sp": 0
 			},
