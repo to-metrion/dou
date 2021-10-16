@@ -239,7 +239,7 @@ var SETDEX_GEN7_SETS = {
 			],
 			}
 		},
-	"Deoxys-Attack": {
+	"Deoxys-A": {
 		"Z-Move Attacker": {
 			"evs": {
 				"hp": 0,
