@@ -1062,7 +1062,7 @@ var SETDEX_GEN5_SETS = {
 				"Trick"
 			],
 			}
-			}
+			},
 	"Mamoswine": {
 		"Physical Attacker": {
 			"evs": {
