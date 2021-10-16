@@ -1121,7 +1121,7 @@ var SETDEX_GEN6_SETS = {
 			],
 		}
 		},
-	"Shaymin-Sky": {
+	"Shaymin-S": {
 		"Offensive": {
 			"evs": {
 				"hp": 4,
