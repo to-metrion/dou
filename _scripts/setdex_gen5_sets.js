@@ -651,7 +651,7 @@ var SETDEX_GEN5_SETS = {
 				"Rain Dance",
 				"Protect"
 			],
-			},
+			}
 		},
 	"Tyranitar": {
 		"Standard: {
