@@ -1439,4 +1439,5 @@ var SETDEX_GEN6_SETS = {
 				"Roost"
 			],
 		}
+	}
 };
