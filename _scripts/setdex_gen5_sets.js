@@ -554,6 +554,7 @@ var SETDEX_GEN5_SETS = {
 				"Snarl",
 				"Protect"
 			],
+		},
 		"Offensive Tailwind": {
 			"evs": {
 				"hp": 120,
@@ -572,6 +573,7 @@ var SETDEX_GEN5_SETS = {
 				"Hydro Pump",
 				"Tailwind"
 			]
+		}
 		},
 	"Shaymin-S": {
 		"Offensive": {
