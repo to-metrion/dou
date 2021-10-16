@@ -77,7 +77,7 @@ var SETDEX_GEN5_SETS = {
 				"Spore",
 				"Protect"
 			],
-			}
+			},
 		"Rage Powder Classic": {
 			"evs": {
 				"hp": 252,
