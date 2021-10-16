@@ -1119,6 +1119,7 @@ var SETDEX_GEN6_SETS = {
 				"Snarl",
 				"Tailwind"
 			],
+		}
 		},
 	"Shaymin-Sky": {
 		"Offensive": {
@@ -1373,7 +1374,7 @@ var SETDEX_GEN6_SETS = {
 			"item": "Assault Vest",
 			"moves": [
 				"Stone Edge",
-				"Purduit",
+				"Pursuit",
 				"Superpower",
 				"Ice Beam"
 			],
