@@ -527,7 +527,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": 156,
 				"sp": 0
 			},
-			},
 			"ivs": {
 				"sp": 1
 			},
