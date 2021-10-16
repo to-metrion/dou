@@ -324,6 +324,7 @@ var SETDEX_GEN5_SETS = {
 				"Hidden Power Ground",
 				"Trick Room"
 			],
+			}
 			},
 	"Excadrill": {
 		"Offensive": {
