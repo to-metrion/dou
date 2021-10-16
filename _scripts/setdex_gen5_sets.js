@@ -654,7 +654,7 @@ var SETDEX_GEN5_SETS = {
 			}
 		},
 	"Tyranitar": {
-		"Standard: {
+		"Standard": {
 			"evs": {
 				"hp": 252,
 				"at": 220,
