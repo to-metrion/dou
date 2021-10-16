@@ -1900,6 +1900,7 @@ var SETDEX_GEN5_SETS = {
 				"Low Kick",
 				"Stealth Rock"
 			],
+			}
 		"Memoric Sample": {
 			"evs": {
 				"hp": 252,
