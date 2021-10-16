@@ -1,6 +1,84 @@
 var SETDEX_GEN5_SETS = {
+	"Abomasnow": {
+		"Focus Sash": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 4,
+				"sa": 252,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Quiet",
+			"ability": "Snow Warning",
+			"item": "Focus Sash",
+			"moves": [
+				"Blizzard",
+				"Giga Drain",
+				"Ice Shard",
+				"Hidden Power Fire"
+			],
+			},
+		"Mixed Attacker": {
+			"evs": {
+				"hp": 64,
+				"at": 124,
+				"df": 68,
+				"sa": 252,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Brave",
+			"ability": "Snow Warning",
+			"item": "Grass Gem",
+			"moves": [
+				"Wood Hammer",
+				"Blizzard",
+				"Ice Shard",
+				"Hidden Power Fire"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 28,
+				"sa": 228,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Snow Warning",
+			"item": "Choice Scarf",
+			"moves": [
+				"Blizzard",
+				"Hidden Power Fire",
+				"Giga Drain",
+				"Ice Shard"
+			],
+			}
+			},
 	"Amoonguss": {
-		"Rage Powder": {
+		"Rage Powder 2021": {
+			"evs": {
+				"hp": 208,
+				"at": 0,
+				"df": 80,
+				"sa": 0,
+				"sd": 216,
+				"sp": 4
+			},
+			"nature": "Calm",
+			"ability": "Regenerator",
+			"item": "Mental Herb",
+			"moves": [
+				"Giga Drain",
+				"Rage Powder",
+				"Spore",
+				"Protect"
+			],
+			}
+		"Rage Powder Classic": {
 			"evs": {
 				"hp": 252,
 				"at": 0,
@@ -24,7 +102,26 @@ var SETDEX_GEN5_SETS = {
 			}
 			},
 	"Bisharp": {
-		"Defiant": {
+		"Fast Defiant": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Defiant",
+			"item": "Dark Gem",
+			"moves": [
+				"Sucker Punch",
+				"Night Slash",
+				"Iron Head",
+				"Low Kick"
+			],
+			},
+		"Bulky Defiant": {
 			"evs": {
 				"hp": 252,
 				"at": 252,
@@ -38,12 +135,116 @@ var SETDEX_GEN5_SETS = {
 			"item": "Dark Gem",
 			"moves": [
 				"Sucker Punch",
+				"Night Slash",
 				"Iron Head",
-				"Low Kick",
-				"Protect"
+				"Low Kick"
 			],
 			}
 			},
+	"Breloom": {
+		"Fighting Gem Sample": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Technician",
+			"item": "Fighting Gem",
+			"moves": [
+				"Mach Punch",
+				"Superpower",
+				"Bullet Seed",
+				"Spore"
+			],
+			},
+		"Life Orb": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Technician",
+			"item": "Life Orb",
+			"moves": [
+				"Mach Punch",
+				"Bullet Seed",
+				"Spore",
+				"Protect"
+			],
+			}
+		},
+	"Chansey": {
+		"Blob": {
+			"evs": {
+				"hp": 244,
+				"at": 0,
+				"df": 248,
+				"sa": 0,
+				"sd": 16,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Natural Cure",
+			"item": "Eviolite",
+			"moves": [
+				"Seismic Toss",
+				"Soft-Boiled",
+				"Toxic",
+				"Heal Pulse"
+			],
+			},
+		"Fast Blob": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 252,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Bold",
+			"ability": "Natural Cure",
+			"item": "Eviolite",
+			"moves": [
+				"Seismic Toss",
+				"Soft-Boiled",
+				"Toxic",
+				"Thunder Wave"
+			],
+			}
+		},
+	"Conkeldurr": {
+		"Life Orb Attacker": {
+			"evs": {
+				"hp": 140,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 116,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 4
+			},
+			"nature": "Brave",
+			"ability": "Iron Fist",
+			"item": "Life Orb",
+			"moves": [
+				"Hammer Arm",
+				"Mach Punch",
+				"Ice Punch",
+				"Detect"
+			],
+			}
+		},
 	"Cresselia": {
 		"Offensive": {
 			"evs": {
@@ -104,8 +305,114 @@ var SETDEX_GEN5_SETS = {
 				"Helping Hand",
 				"Protect"
 			],
-			}
 			},
+		"Memoric Sample": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Levitate",
+			"item": "Expert Belt",
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Hidden Power Ground",
+				"Trick Room"
+			],
+			},
+	"Excadrill": {
+		"Offensive": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Sand Rush",
+			"item": "Life Orb",
+			"moves": [
+				"Earthquake",
+				"Iron Head",
+				"Rock Slide",
+				"Protect"
+			],
+			},
+		"Memoric Sample": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 120,
+				"sa": 0,
+				"sd": 0,
+				"sp": 136
+			},
+			"ivs": {
+				"hp": 29
+			},
+			"nature": "Adamant",
+			"ability": "Sand Rush",
+			"item": "Life Orb",
+			"moves": [
+				"Earthquake",
+				"Iron Head",
+				"Rock Slide",
+				"Protect"
+			],
+			}
+		},
+	"Ferrothorn": {
+		"Tank": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 60,
+				"sa": 0,
+				"sd": 196,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 0
+			},
+			"nature": "Sassy",
+			"ability": "Iron Barbs",
+			"item": "Leftovers",
+			"moves": [
+				"Power Whip",
+				"Gyro Ball",
+				"Leech Seed",
+				"Protect"
+			],
+			}
+		},
+	"Gastrodon": {
+		"Storm Drain Support": {
+			"evs": {
+				"hp": 176,
+				"at": 0,
+				"df": 124,
+				"sa": 40,
+				"sd": 168,
+				"sp": 0
+			},
+			"nature": "Sassy",
+			"ability": "Storm Drain",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Earth Power",
+				"Ice Beam",
+				"Recover",
+				"Protect"
+			],
+			}
+		},
 	"Genesect": {
 		"All-Out Attacker": {
 			"evs": {
@@ -143,6 +450,86 @@ var SETDEX_GEN5_SETS = {
 				"Ice Beam",
 				"Thunderbolt",
 				"Flamethrower"
+			],
+			},
+		"Choice Band": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Hasty",
+			"ability": "Download",
+			"item": "Choice Band",
+			"moves": [
+				"U-turn",
+				"Iron Head",
+				"Extreme Speed",
+				"Explosion"
+			],
+			}
+		},
+	"Gothitelle": {
+		"Standard": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 80,
+				"sa": 0,
+				"sd": 176,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Shadow Tag",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Psychic",
+				"Taunt",
+				"Skill Swap",
+				"Trick Room"
+			],
+			}
+		},
+	"Gyarados": {
+		"Intimidate Support": {
+			"evs": {
+				"hp": 248,
+				"at": 60,
+				"df": 148,
+				"sa": 0,
+				"sd": 16,
+				"sp": 36
+			},
+			"nature": "Careful",
+			"ability": "Intimidate",
+			"item": "Wacan Berry",
+			"moves": [
+				"Waterfall",
+				"Icy Wind",
+				"Thunder Wave",
+				"Taunt"
+			],
+			},
+		"Dragon Dance": {
+			"evs": {
+				"hp": 4,
+				"at": 112,
+				"df": 0,
+				"sa": 0,
+				"sd": 208,
+				"sp": 184
+			},
+			"nature": "Adamant",
+			"ability": "Moxie",
+			"item": "Water Gem",
+			"moves": [
+				"Waterfall",
+				"Ice Fang",
+				"Return",
+				"Dragon Dance"
 			],
 			}
 		},
@@ -185,6 +572,25 @@ var SETDEX_GEN5_SETS = {
 				"Protect"
 			],
 			},
+		"Offensive (Bulky)": {
+			"evs": {
+				"hp": 160,
+				"at": 0,
+				"df": 4,
+				"sa": 240,
+				"sd": 0,
+				"sp": 104
+			},
+			"nature": "Modest",
+			"ability": "Flash Fire",
+			"item": "Shuca Berry",
+			"moves": [
+				"Heat Wave",
+				"Earth Power",
+				"Flash Cannon",
+				"Protect"
+			],
+			},
 		"Eruption": {
 			"evs": {
 				"hp": 252,
@@ -205,6 +611,124 @@ var SETDEX_GEN5_SETS = {
 				"Heat Wave",
 				"Earth Power",
 				"Protect"
+			],
+			}
+		},
+	"Heracross": {
+		"All-Out Attacker": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Moxie",
+			"item": "Bug Gem",
+			"moves": [
+				"Megahorn",
+				"Close Combat",
+				"Feint",
+				"Stone Edge"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Moxie",
+			"item": "Choice Scarf",
+			"moves": [
+				"Megahorn",
+				"Close Combat",
+				"Rock Slide",
+				"Earthquake"
+			],
+			}
+		},
+	"Hitmontop": {
+		"Offensive Utility (2021 Spread)": {
+			"evs": {
+				"hp": 252,
+				"at": 120,
+				"df": 0,
+				"sa": 0,
+				"sd": 60,
+				"sp": 76
+			},
+			"nature": "Adamant",
+			"ability": "Intimidate",
+			"item": "Fighting Gem",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Feint",
+				"Toxic"
+			],
+			},
+		"Offensive Utility (Old Spread)": {
+			"evs": {
+				"hp": 124,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 132
+			},
+			"nature": "Adamant",
+			"ability": "Intimidate",
+			"item": "Fighting Gem",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Sucker Punch",
+				"Feint"
+			],
+			},
+		"Support": {
+			"evs": {
+				"hp": 252,
+				"at": 64,
+				"df": 64,
+				"sa": 0,
+				"sd": 0,
+				"sp": 128
+			},
+			"nature": "Careful",
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Feint",
+				"Helping Hand"
+			],
+			},
+		"Whitewater Rain Sample": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Intimidate",
+			"item": "Fighting Gem",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Feint",
+				"Wide Guard"
 			],
 			}
 		},
@@ -229,6 +753,27 @@ var SETDEX_GEN5_SETS = {
 			],
 			}
 		},
+	"Infernape": {
+		"Mixed Fake Out": {
+			"evs": {
+				"hp": 0,
+				"at": 180,
+				"df": 0,
+				"sa": 76,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Naive",
+			"ability": "Blaze",
+			"item": "Focus Sash",
+			"moves": [
+				"Fake Out",
+				"Overheat",
+				"Close Combat",
+				"Feint"
+			],
+			}
+		},
 	"Jellicent": {
 		"Trick Room Support": {
 			"evs": {
@@ -248,6 +793,50 @@ var SETDEX_GEN5_SETS = {
 			"moves": [
 				"Scald",
 				"Will-O-Wisp",
+				"Trick Room",
+				"Recover"
+			],
+			},
+		"DaWoblefet Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 100,
+				"sa": 0,
+				"sd": 156,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 4
+			},
+			"nature": "Calm",
+			"ability": "Water Absorb",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Scald",
+				"Will-O-Wisp",
+				"Trick Room",
+				"Recover"
+			],
+			},
+		"marilli Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 252,
+				"sa": 0,
+				"sd": 4,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Cursed Body",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Scald",
+				"Toxic",
 				"Trick Room",
 				"Recover"
 			],
@@ -291,7 +880,7 @@ var SETDEX_GEN5_SETS = {
 				"Muddy Water",
 				"Draco Meteor",
 				"Hydro Pump",
-				"Protect"
+				"Substitute"
 			],
 			}
 		},
@@ -369,18 +958,39 @@ var SETDEX_GEN5_SETS = {
 				"Dragon Claw",
 				"Ice Beam",
 				"Fusion Bolt",
-				"Rock Slide"
+				"Earth Power"
+			],
+			}
+		},
+	"Landorus": {
+		"Special Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 4,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Sheer Force",
+			"item": "Life Orb",
+			"moves": [
+				"Earth Power",
+				"Hidden Power Flying",
+				"Grass Knot",
+				"Psychic"
 			],
 			}
 		},
 	"Landorus-T": {
 		"Offensive": {
 			"evs": {
-				"hp": 0,
+				"hp": 4,
 				"at": 252,
 				"df": 0,
 				"sa": 0,
-				"sd": 4,
+				"sd": 0,
 				"sp": 252
 			},
 			"nature": "Adamant",
@@ -395,12 +1005,12 @@ var SETDEX_GEN5_SETS = {
 			},
 		"Choice Scarf": {
 			"evs": {
-				"hp": 0,
+				"hp": 28,
 				"at": 252,
-				"df": 4,
+				"df": 0,
 				"sa": 0,
-				"sd": 0,
-				"sp": 252
+				"sd": 48,
+				"sp": 180
 			},
 			"nature": "Adamant",
 			"ability": "Intimidate",
@@ -423,7 +1033,7 @@ var SETDEX_GEN5_SETS = {
 				"sd": 0,
 				"sp": 252
 			},
-			"nature": "Timid",
+			"nature": "Modest",
 			"ability": "Levitate",
 			"item": "Dragon Gem",
 			"moves": [
@@ -431,6 +1041,268 @@ var SETDEX_GEN5_SETS = {
 				"Psychic",
 				"Hidden Power Ground",
 				"Tailwind"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 80,
+				"sa": 252,
+				"sd": 0,
+				"sp": 172
+			},
+			"nature": "Modest",
+			"ability": "Levitate",
+			"item": "Choice Scarf",
+			"moves": [
+				"Draco Meteor",
+				"Ice Beam",
+				"Hidden Power Fire",
+				"Trick"
+			],
+			}
+			}
+	"Mamoswine": {
+		"Physical Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Thick Fat",
+			"item": "Focus Sash",
+			"moves": [
+				"Earthquake",
+				"Icicle Crash",
+				"Icicle Spear",
+				"Ice Shard"
+			],
+			},
+		"Bulky Attacker": {
+			"evs": {
+				"hp": 208,
+				"at": 244,
+				"df": 56,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Thick Fat",
+			"item": "Ice Gem",
+			"moves": [
+				"Earthquake",
+				"Icicle Crash",
+				"Ice Shard",
+				"Protect"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 224,
+				"at": 120,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 160
+			},
+			"nature": "Adamant",
+			"ability": "Thick Fat",
+			"item": "Choice Scarf",
+			"moves": [
+				"Icicle Spear",
+				"Earthquake",
+				"Icicle Crash",
+				"Rock Slide"
+			],
+			}
+		},
+	"Manaphy": {
+		"Offensive Tail Glow": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Hydration",
+			"item": "Wacan Berry",
+			"moves": [
+				"Surf",
+				"Scald",
+				"Ice Beam",
+				"Tail Glow"
+			],
+			},
+		"Defensive Tail Glow": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 136,
+				"sd": 12,
+				"sp": 108
+			},
+			"nature": "Modest",
+			"ability": "Hydration",
+			"item": "Wacan Berry",
+			"moves": [
+				"Scald",
+				"Energy Ball",
+				"Ice Beam",
+				"Tail Glow"
+			],
+			}
+		},
+	"Marowak": {
+		"Lightning Rod Support": {
+			"evs": {
+				"hp": 252,
+				"at": 120,
+				"df": 0,
+				"sa": 0,
+				"sd": 136,
+				"sp": 0
+			},
+			"ivs": {
+				"sp": 1
+			},
+			"nature": "Brave",
+			"ability": "Lightning Rod",
+			"item": "Thick Club",
+			"moves": [
+				"Bonemerang",
+				"Stone Edge",
+				"Stealth Rock",
+				"Protect"
+			],
+			}
+		},
+	"Metagross": {
+		"Substitute": {
+			"evs": {
+				"hp": 252,
+				"at": 188,
+				"df": 0,
+				"sa": 0,
+				"sd": 60,
+				"sp": 8
+			},
+			"nature": "Adamant",
+			"ability": "Clear Body",
+			"item": "Leftovers",
+			"moves": [
+				"Meteor Mash",
+				"Zen Headbutt",
+				"Substitute",
+				"Protect"
+			],
+			},
+		"Tank": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 4
+			},
+			"nature": "Adamant",
+			"ability": "Clear Body",
+			"item": "Occa Berry",
+			"moves": [
+				"Meteor Mash",
+				"Bullet Punch",
+				"Zen Headbutt",
+				"Earthquake"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Clear Body",
+			"item": "Choice Scarf",
+			"moves": [
+				"Meteor Mash",
+				"Ice Punch",
+				"Zen Headbutt",
+				"Earthquake"
+			],
+			}
+		},
+	"Mew": {
+		"Tailwind Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 4,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Synchronize",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Ice Beam",
+				"Earth Power",
+				"Will-O-Wisp",
+				"Tailwind"
+			],
+			},
+		"Calm Mind": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 0,
+				"sa": 4,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Synchronize",
+			"item": "Leftovers",
+			"moves": [
+				"Psychic",
+				"Aura Sphere",
+				"Calm Mind",
+				"Soft-Boiled"
+			],
+			}
+		},
+	"Ninetales": {
+		"Sun Setter": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Drought",
+			"item": "Fire Gem",
+			"moves": [
+				"Heat Wave",
+				"Overheat",
+				"Will-O-Wisp",
+				"Protect"
 			],
 			}
 		},
@@ -452,6 +1324,143 @@ var SETDEX_GEN5_SETS = {
 				"Icy Wind",
 				"Helping Hand",
 				"Protect"
+			],
+			},
+		"Choice Specs": {
+			"evs": {
+				"hp": 248,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 8,
+				"sp": 0
+			},
+			"nature": "Modest",
+			"ability": "Drizzle",
+			"item": "Choice Specs",
+			"moves": [
+				"Hydro Pump",
+				"Scald",
+				"Ice Beam",
+				"Hidden Power Grass"
+			],
+			},
+		"Choice Specs (DaWoblefet Rain)": {
+			"evs": {
+				"hp": 248,
+				"at": 0,
+				"df": 0,
+				"sa": 204,
+				"sd": 56,
+				"sp": 0
+			},
+			"nature": "Modest",
+			"ability": "Drizzle",
+			"item": "Choice Specs",
+			"moves": [
+				"Hydro Pump",
+				"Scald",
+				"Ice Beam",
+				"Toxic"
+			],
+			}
+		},
+	"Sableye": {
+		"Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 20,
+				"sa": 0,
+				"sd": 236,
+				"sp": 0
+			},
+			"nature": "Calm",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Fake Out",
+				"Foul Play",
+				"Will-O-Wisp",
+				"Sunny Day"
+			],
+			}
+		},
+	"Salamence": {
+		"Memoric Sample": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Intimidate",
+			"item": "Life Orb",
+			"moves": [
+				"Draco Meteor",
+				"Fire Blast",
+				"Hydro Pump",
+				"Tailwind"
+			],
+			},
+		"Special Attacker": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Modest",
+			"ability": "Intimidate",
+			"item": "Dragon Gem",
+			"moves": [
+				"Draco Meteor",
+				"Heat Wave",
+				"Fire Blast",
+				"Hidden Power Flying"
+			],
+			},
+		"Mixed Attacker": {
+			"evs": {
+				"hp": 0,
+				"at": 72,
+				"df": 0,
+				"sa": 184,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Naive",
+			"ability": "Intimidate",
+			"item": "Life Orb",
+			"moves": [
+				"Draco Meteor",
+				"Earthquake",
+				"Dragon Claw",
+				"Tailwind"
+			],
+			},
+		"Choiced": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Modest",
+			"ability": "Intimidate",
+			"item": "Choice Scarf",
+			"moves": [
+				"Draco Meteor",
+				"Heat Wave",
+				"Hidden Power Flying",
+				"Hydro Pump"
 			],
 			}
 		},
@@ -535,6 +1544,46 @@ var SETDEX_GEN5_SETS = {
 			],
 			}
 		},
+	"Scizor": {
+		"Swords Dance (Whitewater Sample)": {
+			"evs": {
+				"hp": 204,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 52
+			},
+			"nature": "Adamant",
+			"ability": "Technician",
+			"item": "Steel Gem",
+			"moves": [
+				"Bullet Punch",
+				"Bug Bite",
+				"Swords Dance",
+				"Protect"
+			],
+			},
+		"All-Out Attacker": {
+			"evs": {
+				"hp": 252,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Technician",
+			"item": "Steel Gem",
+			"moves": [
+				"Bullet Punch",
+				"Superpower",
+				"Bug Bite",
+				"Feint"
+			],
+			}
+		},
 	"Suicune": {
 		"Bulky Support": {
 			"evs": {
@@ -552,6 +1601,25 @@ var SETDEX_GEN5_SETS = {
 				"Scald",
 				"Icy Wind",
 				"Snarl",
+				"Protect"
+			],
+		},
+		"Calm Mind": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 216,
+				"sa": 0,
+				"sd": 40,
+				"sp": 0
+			},
+			"nature": "Bold",
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"moves": [
+				"Scald",
+				"Calm Mind",
+				"Substitute",
 				"Protect"
 			],
 		},
@@ -596,8 +1664,105 @@ var SETDEX_GEN5_SETS = {
 			],
 			}
 		},
+	"Terrakion": {
+		"Substitute": {
+			"evs": {
+				"hp": 0,
+				"at": 252,
+				"df": 4,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Justified",
+			"item": "Fighting Gem",
+			"moves": [
+				"Close Combat",
+				"Rock Slide",
+				"Stone Edge",
+				"Substitute"
+			],
+			},
+		"Choice Scarf": {
+			"evs": {
+				"hp": 0,
+				"at": 236,
+				"df": 108,
+				"sa": 0,
+				"sd": 0,
+				"sp": 164
+			},
+			"nature": "Adamant",
+			"ability": "Justified",
+			"item": "Choice Scarf",
+			"moves": [
+				"Close Combat",
+				"Rock Slide",
+				"Earthquake",
+				"X-Scissor"
+			],
+			}
+		},
 	"Thundurus": {
-		"Offensive Support": {
+		"Bulky Support (DaWoblefet Sample)": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 56,
+				"sa": 0,
+				"sd": 176,
+				"sp": 24
+			},
+			"nature": "Calm",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Thunderbolt",
+				"Hidden Power Ice",
+				"Sky Drop",
+				"Thunder Wave"
+			],
+			},
+		"Bulky Support (Memoric Sample)": {
+			"evs": {
+				"hp": 192,
+				"at": 0,
+				"df": 0,
+				"sa": 0,
+				"sd": 220,
+				"sp": 96
+			},
+			"nature": "Calm",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Thunderbolt",
+				"Hidden Power Ice",
+				"Sky Drop",
+				"Thunder Wave"
+			],
+			},
+		"2021 Offensive Support": {
+			"evs": {
+				"hp": 4,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Prankster",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Thunderbolt",
+				"Hidden Power Ice",
+				"Sky Drop",
+				"Thunder Wave"
+			],
+			},
+		"Whitewater Rain Sample": {
 			"evs": {
 				"hp": 4,
 				"at": 0,
@@ -610,48 +1775,109 @@ var SETDEX_GEN5_SETS = {
 			"ability": "Prankster",
 			"item": "Electric Gem",
 			"moves": [
-				"Thunderbolt",
-				"Hidden Power Ice",
+				"Thunder",
 				"Hidden Power Flying",
-				"Thunder Wave"
+				"Thunder Wave",
+				"Protect"
 			],
 			},
-		"Bulky Support": {
+		"Defiant": {
 			"evs": {
-				"hp": 192,
+				"hp": 0,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Defiant",
+			"item": "Life Orb",
+			"moves": [
+				"Wild Charge",
+				"Crunch",
+				"Superpower",
+				"Protect"
+			],
+			}
+		},
+	"Thundurus-T": {
+		"Rain Scarf": {
+			"evs": {
+				"hp": 64,
+				"at": 0,
+				"df": 12,
+				"sa": 252,
+				"sd": 0,
+				"sp": 180
+			},
+			"nature": "Modest",
+			"ability": "Volt Absorb",
+			"item": "Choice Scarf",
+			"moves": [
+				"Thunder",
+				"Volt Switch",
+				"Hidden Power Flying",
+				"Flash Cannon"
+			],
+			},
+		"Electric Gem": {
+			"evs": {
+				"hp": 0,
 				"at": 0,
 				"df": 0,
-				"sa": 76,
-				"sd": 220,
-				"sp": 20
+				"sa": 200,
+				"sd": 76,
+				"sp": 232
 			},
-			"nature": "Calm",
-			"ability": "Prankster",
-			"item": "Sitrus Berry",
+			"nature": "Modest",
+			"ability": "Volt Absorb",
+			"item": "Electric Gem",
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power Ice",
+				"Volt Switch",
 				"Hidden Power Flying",
-				"Thunder Wave"
+				"Protect"
 			],
-			},
-		"Rain Sample": {
+			}
+		},
+	"Tornadus": {
+		"Defiant Attacker": {
 			"evs": {
 				"hp": 4,
-				"at": 0,
+				"at": 252,
 				"df": 0,
-				"sa": 252,
+				"sa": 0,
 				"sd": 0,
 				"sp": 252
 			},
-			"nature": "Timid",
-			"ability": "Prankster",
-			"item": "Safety Goggles",
+			"nature": "Jolly",
+			"ability": "Defiant",
+			"item": "Flying Gem",
 			"moves": [
-				"Thunder",
-				"Taunt",
-				"Rain Dance",
-				"Protect"
+				"Acrobatics",
+				"Superpower",
+				"U-turn",
+				"Taunt"
+			],
+			},
+		"Tailwind Support": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Jolly",
+			"ability": "Prankster",
+			"item": "Flying Gem",
+			"moves": [
+				"Acrobatics",
+				"Superpower",
+				"Tailwind",
+				"Substitute"
 			],
 			}
 		},
@@ -659,10 +1885,10 @@ var SETDEX_GEN5_SETS = {
 		"Standard": {
 			"evs": {
 				"hp": 252,
-				"at": 220,
-				"df": 36,
+				"at": 252,
+				"df": 0,
 				"sa": 0,
-				"sd": 0,
+				"sd": 4,
 				"sp": 0
 			},
 			"nature": "Adamant",
@@ -672,7 +1898,25 @@ var SETDEX_GEN5_SETS = {
 				"Rock Slide",
 				"Crunch",
 				"Low Kick",
-				"Fire Blast"
+				"Stealth Rock"
+			],
+		"Memoric Sample": {
+			"evs": {
+				"hp": 252,
+				"at": 192,
+				"df": 64,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"nature": "Adamant",
+			"ability": "Sand Stream",
+			"item": "Babiri Berry",
+			"moves": [
+				"Stone Edge",
+				"Pursuit",
+				"Fire Blast",
+				"Protect"
 			],
 			},
 		"Choice Scarf": {
@@ -694,6 +1938,25 @@ var SETDEX_GEN5_SETS = {
 				"Fire Blast"
 			],
 			},
+		"Choice Band": {
+			"evs": {
+				"hp": 180,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 76
+			},
+			"nature": "Adamant",
+			"ability": "Sand Stream",
+			"item": "Choice Band",
+			"moves": [
+				"Stone Edge",
+				"Rock Slide",
+				"Crunch",
+				"Pursuit"
+			],
+			},
 		"Focus Sash": {
 			"evs": {
 				"hp": 4,
@@ -711,6 +1974,88 @@ var SETDEX_GEN5_SETS = {
 				"Crunch",
 				"Low Kick",
 				"Fire Blast"
+			],
+			}
+		},
+	"Victini": {
+		"Choice Band": {
+			"evs": {
+				"hp": 4,
+				"at": 252,
+				"df": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 252
+			},
+			"nature": "Adamant",
+			"ability": "Victory Star",
+			"item": "Choice Band",
+			"moves": [
+				"V-create",
+				"Bolt Strike",
+				"Brick Break",
+				"U-turn"
+			],
+			}
+		},
+	"Volcarona": {
+		"Rage Powder": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 196,
+				"sa": 44,
+				"sd": 0,
+				"sp": 16
+			},
+			"nature": "Timid",
+			"ability": "Flame Body",
+			"item": "Sitrus Berry",
+			"moves": [
+				"Overheat",
+				"Bug Buzz",
+				"Rage Powder",
+				"Tailwind"
+			],
+			},
+		"Quiver Dance": {
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 0,
+				"sa": 252,
+				"sd": 4,
+				"sp": 252
+			},
+			"nature": "Timid",
+			"ability": "Flame Body",
+			"item": "Bug Gem",
+			"moves": [
+				"Heat Wave",
+				"Bug Buzz",
+				"Quiver Dance",
+				"Protect"
+			],
+			}
+		},
+	"Zapdos": {
+		"Tailwind Support": {
+			"evs": {
+				"hp": 252,
+				"at": 0,
+				"df": 36,
+				"sa": 0,
+				"sd": 112,
+				"sp": 108
+			},
+			"nature": "Modest",
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"moves": [
+				"Thunderbolt",
+				"Hidden Power Ice",
+				"Tailwind",
+				"Roost"
 			],
 			}
 		}
