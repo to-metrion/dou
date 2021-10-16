@@ -11,7 +11,7 @@ var SETDEX_GEN6_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Relaxed",
 			"ability": "Regenerator",
 			"item": "Rocky Helmet",
@@ -33,7 +33,7 @@ var SETDEX_GEN6_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Relaxed",
 			"ability": "Regenerator",
 			"item": "Rocky Helmet",
@@ -55,7 +55,7 @@ var SETDEX_GEN6_SETS = {
 			},
 			"ivs": {
 				"sp": 0
-			}
+			},
 			"nature": "Sassy",
 			"ability": "Regenerator",
 			"item": "Rocky Helmet",
