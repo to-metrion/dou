@@ -1653,6 +1653,68 @@ var SETDEX_GEN8_SETS = {
 			],
 			}
 		},
+"Mienfoo": {
+		"DLC Basic Attacker": {
+		    "level": "5",
+			"evs": {
+				"hp": 0,
+				"at": 0,
+				"df": 196,
+				"sa": 0,
+				"sd": 36,
+				"sp": 236
+			},
+			"nature": "Jolly",
+			"ability": "Regenerator",
+			"item": "Eviolite",
+			"moves": [
+				"Fake Out",
+				"Close Combat",
+				"Knock Off",
+				"Feint"
+			],
+			},
+		"DLC Swords Dance": {
+		    "level": "5",
+			"evs": {
+				"hp": 0,
+				"at": 236,
+				"df": 36,
+				"sa": 0,
+				"sd": 0,
+				"sp": 236
+			},
+			"nature": "Jolly",
+			"ability": "Inner Focus",
+			"item": "Berry Juice",
+			"moves": [
+				"Close Combat",
+				"Acrobatics",
+				"Knock Off",
+				"Swords Dance"
+			],
+			},
+		"DLC Baton Passer": {
+		    "level": "5",
+			"evs": {
+				"hp": 0,
+				"at": 196,
+				"df": 0,
+				"sa": 0,
+				"sd": 36,
+				"sp": 236
+			},
+			"nature": "Jolly",
+			"ability": "Regenerator",
+			"item": "Eviolite",
+			"moves": [
+				"Close Combat",
+				"Baton Pass",
+				"Swords Dance",
+				"Agility"
+			],
+			}
+		},
 "Milotic": {
 		"DUU Coil": {
 			"evs": {
